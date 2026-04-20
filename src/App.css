@@ -20,8 +20,20 @@ main{
     display: flex;
 }
 .d-m{
-    width: 30%;
+    width: 20%;
+    padding-left: 150px;
+    font-size: 25px;
+    padding-top: 100px;
 }
 .dd-m{
     width: 70%;
+    padding-left: 900px;
+}
+
+.M-B{
+    background-color: yellow;
+    color: black;
+    border-color: none;
+    width: 150px;
+    height: 40px;
 }
