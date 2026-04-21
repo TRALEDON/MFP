@@ -17,7 +17,13 @@ const App = () => {
       <img src={p} alt="" />
       <p>poduct design</p>
       </div>
-      
+       <div className="card">
+      <img src={p} alt="" />
+      <p>poduct design</p>
+      </div> <div className="card">
+      <img src={p} alt="" />
+      <p>poduct design</p>
+      </div>
       </div>
     </div>
     </div>
