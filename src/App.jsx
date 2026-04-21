@@ -13,6 +13,11 @@ const App = () => {
       <div className="card">
       <img src={p} alt="" />
       <p>poduct design</p>
+       <div className="card">
+      <img src={p} alt="" />
+      <p>poduct design</p>
+      </div>
+      
       </div>
     </div>
     </div>
