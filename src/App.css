@@ -7,8 +7,8 @@
 
 }
 nav{
-    background-color: #2C2C2C;
-    color: black;
+    background-color: black;
+    color: #2C2C2C;
     display: flex;
     justify-content: space-around;
 }
@@ -36,4 +36,11 @@ main{
     border-color: none;
     width: 150px;
     height: 40px;
+}
+car{
+  width: 270px;
+  height: 270px;
+  background-color: #f5f5f5;
+  border-radius: 16px;
+  padding: 20px;
 }
