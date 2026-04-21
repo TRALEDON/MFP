@@ -44,8 +44,19 @@ main{
   background-color: #2C2C2C ;
   border-radius: 16px;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 20px;
   padding-left: 70px;
   font-size: 23px;
-  align-items: center;
+  
+}
+.c-m{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.c-mm{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 10px;
 }
